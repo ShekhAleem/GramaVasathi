@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1064826330465",
+    "project_id": "precise-office-491304-u6",
+    "storage_bucket": "precise-office-491304-u6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064826330465:android:f0c78f5b921136c8fb7920",
+        "android_client_info": {
+          "package_name": "com.gramavasathi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064826330465-7jie327bm3d1l6itkhnc0mqqte2pl9hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK9JISsJSImZ0bg9Z1TT8-bPVjWCECebo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064826330465-7jie327bm3d1l6itkhnc0mqqte2pl9hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
